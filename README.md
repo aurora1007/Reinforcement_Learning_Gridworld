@@ -4,7 +4,6 @@ Implement gridworld using OpenAi gym specification. Sample the dynamics of gridw
 
 
 1. Check you class is working and meet specification by running the random agent:
-
 .. code:: shell
 
     python3 random_agent.py 'gridworld-v0'
