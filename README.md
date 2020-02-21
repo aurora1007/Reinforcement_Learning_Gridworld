@@ -1,5 +1,5 @@
 # Reinforcement_Learning_Gridworld
-Implement gridworld using OpenAi gym specification. Sample the dynamics of gridworld under a random policy and estimate state-value function like in example 3.5 on Page 60 of Sutton and Barto.
+Implement gridworld using OpenAI gym specification. Sample the dynamics of gridworld under a random policy and estimate state-value function like in example 3.5 on Page 60 of Sutton and Barto.
 
 
 
