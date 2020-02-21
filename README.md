@@ -10,14 +10,14 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
 Usage
 -----
 
-.. code::
+.. code:: shell
 
         $ import gym
         $ import gym_gridworlds
         $ env = gym.make('Gridworld-v0')  # substitute environment's name
 
 
-.. code::
+.. code:: shell
 
         python3 random_agent.py 'gridworld-v0'
 
