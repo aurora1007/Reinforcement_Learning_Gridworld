@@ -5,7 +5,20 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
 
 1. Check you class is working and meet specification by running the random agent:
 
+
+
+Usage
+-----
+
 .. code::
+
+        $ import gym
+        $ import gym_gridworlds
+        $ env = gym.make('Gridworld-v0')  # substitute environment's name
+
+
+.. code::
+
         python3 random_agent.py 'gridworld-v0'
 
 2. Sample the dynamics of your gridworld under a random policy and estimate state-value function
