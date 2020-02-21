@@ -7,7 +7,7 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
 
 
 ```
-        python3 random_agent.py 'gridworld-v0'
+    python3 random_agent.py 'gridworld-v0'
 ```
 2. Sample the dynamics of your gridworld under a random policy and estimate state-value function
 ```
