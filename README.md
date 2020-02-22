@@ -29,4 +29,6 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
 ```
     python3 vpg_state_value.py 
 ```
-<img src = "https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_state_value.png" width = "650">
+<p align="center">
+<img src = "https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_state_value.png" width = "450", alignment = "center">
+</p>
