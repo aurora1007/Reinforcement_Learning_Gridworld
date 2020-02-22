@@ -23,8 +23,9 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
     python3 spinningup/spinup/utils/plot.py vpg_results/
 ```
 
-<img src="https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_results.png" width="850"> 
+<img src="https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_results.png" width="750"> 
 3. (d) The VPG code estimates the state-value function. Plot these values.
 ```
     python3 vpg_state_value.py 
 ```
+<img src = "https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_state_value.png" width = "650">
