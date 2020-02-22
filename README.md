@@ -23,7 +23,7 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
     python3 spinningup/spinup/utils/plot.py vpg_results/
 ```
 
-<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/west_union1.jpg" width="250"> |<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/van_bar3.jpg" width="312" >|<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/westunion_van.png" width="250" >
+<img src="https://github.com/muxiazhixing/Reinforcement_Learning_Gridworld/blob/master/imgs/vpg_results.png" width="250"> 
 3. (d) The VPG code estimates the state-value function. Plot these values.
 ```
     python3 vpg_state_value.py 
