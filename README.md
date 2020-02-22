@@ -11,7 +11,7 @@ Implement gridworld using OpenAI gym specification. Sample the dynamics of gridw
 ```
 2. Sample the dynamics of gridworld under a random policy and estimate state-value function
 ```
-    python3 vpg_state_value.py   
+    python3 state_value.py   
 ```
 
 3. (b) Read and execute the Vanilla Policy Gradient code on gridworld environment:
