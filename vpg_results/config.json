@@ -1,0 +1,40 @@
+{
+    "ac_kwargs":	{
+        "activation":	"ReLU",
+        "hidden_sizes":	[
+            32
+        ]
+    },
+    "actor_critic":	"MLPActorCritic",
+    "env_fn":	"<function <lambda> at 0x10eb32320>",
+    "epochs":	250,
+    "exp_name":	"experiment_name",
+    "gamma":	0.9,
+    "lam":	0.97,
+    "logger":	{
+        "<spinup.utils.logx.EpochLogger object at 0x150acfe90>":	{
+            "epoch_dict":	{},
+            "exp_name":	"experiment_name",
+            "first_row":	true,
+            "log_current_row":	{},
+            "log_headers":	[],
+            "output_dir":	"vpg_results",
+            "output_file":	{
+                "<_io.TextIOWrapper name='vpg_results/progress.txt' mode='w' encoding='UTF-8'>":	{
+                    "mode":	"w"
+                }
+            }
+        }
+    },
+    "logger_kwargs":	{
+        "exp_name":	"experiment_name",
+        "output_dir":	"vpg_results"
+    },
+    "max_ep_len":	1000,
+    "pi_lr":	0.0003,
+    "save_freq":	10,
+    "seed":	0,
+    "steps_per_epoch":	5000,
+    "train_v_iters":	80,
+    "vf_lr":	0.001
+}
